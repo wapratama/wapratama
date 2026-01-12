@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wisnu (@wapratama)
-- 👀 I’m interested in AI/ML/DL
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on AI/ML/DL or any data science project
+- 👀 I’m enthusiasted in data and AI technology.
+- 🌱 I’m currently learning DA, DE, and DS to support my expertise in Data Management of O&G upstream operation.
+- 💞️ I’m looking to collaborate on AI or any data project
 - 📫 You can reach me via wisnuanugrahpratama@gmail.com or https://www.linkedin.com/in/wisnu-anugrah-pratama/
 
 <!---
